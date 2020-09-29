@@ -1,0 +1,6 @@
+Drag HealthBarParent  into your entity prefab hierarchy Above "AggroArea"
+
+Drag Entity into Script HealthBar Owner slot.
+
+
+This is super simple and you can edit all to your liking.
